@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{5DD78D15-837F-73CD-EE36-AC1B4D0A883A}") = "leapmotionTest", "Assembly-CSharp.csproj", "{AFA57F13-06D5-82F9-A141-D5950B9C17D6}"
+EndProject
+Project("{5DD78D15-837F-73CD-EE36-AC1B4D0A883A}") = "leapmotionTest", "Assembly-CSharp-Editor.csproj", "{01238B26-9D4C-A610-F766-6030D087FF68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA57F13-06D5-82F9-A141-D5950B9C17D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA57F13-06D5-82F9-A141-D5950B9C17D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA57F13-06D5-82F9-A141-D5950B9C17D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA57F13-06D5-82F9-A141-D5950B9C17D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01238B26-9D4C-A610-F766-6030D087FF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01238B26-9D4C-A610-F766-6030D087FF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01238B26-9D4C-A610-F766-6030D087FF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01238B26-9D4C-A610-F766-6030D087FF68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
